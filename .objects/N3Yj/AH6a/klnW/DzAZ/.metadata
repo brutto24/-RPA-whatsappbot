@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Application Event Trigger 'Button'",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "DzAZZ9tsW0G2o33n8vW3Ew",
+  "Reference": "0K44y_WKKE-8D1BOQ59HVw/DzAZZ9tsW0G2o33n8vW3Ew",
+  "ParentRef": "0K44y_WKKE-8D1BOQ59HVw/klnWkqCJeU-l9puPFsxuHw",
+  "Created": "2024-10-08T17:20:37.5825317Z",
+  "Updated": "2024-10-08T17:20:37.5825317Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="1YCyQjvIF0W9h8UwrepXzw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://web.whatsapp.com/" CVScreenId="29598e1e-41c6-424f-8b55-8512fa4dc089" CvTextArea="250, 221, 45, 14" CvTextArgument="Search" CvType="Text" DesignTimeRectangle="186, 211, 486, 35" DesignTimeScaleFactor="1" FullSelectorArgument="&lt;webctrl css-selector='body&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div' idx='2' parentid='side' tag='DIV' /&gt;" FuzzySelectorArgument="&lt;webctrl type='' class='x9f619 x78zum5 x6s0dn4 x1s1d1n7 xqmdsaz x1lj6vcq x1bmedo x1lq5wgf xgqcy7u x30kzoy x9jhf4c' parentid='side' tag='DIV' aaname='' /&gt;" Guid="4d2e4e46-1f93-4bbe-8d20-eca21de76f4a" ScopeSelectorArgument="&lt;html app='msedge.exe' title='(3) WhatsApp' /&gt;" SearchSteps="Selector, FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="29598e1e-41c6-424f-8b55-8512fa4dc089" CvTextArea="250, 221, 45, 14" CvTextArgument="Search" CvType="Text" DesignTimeRectangle="251, 217, 389, 23" FuzzySelectorArgument="&lt;webctrl tag='P' type='' class='selectable-text copyable-text x15bjb6t x1n2onr6' aaname='' /&gt;" Guid="8bd1298a-d73f-427e-a499-ab5c3194bb89" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="dfe130a18e3976f79e00f7ef33abf5ed.png" xmlns="">08g95LwIcVk-3PHGxJG3lxQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">KeyboardShortcut</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

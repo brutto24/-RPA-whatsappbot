@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Edge WhatsApp",
+  "Type": "Screen",
+  "Id": "IUcZWcMD4ke5cnTIYc-79A",
+  "Reference": "0K44y_WKKE-8D1BOQ59HVw/IUcZWcMD4ke5cnTIYc-79A",
+  "ParentRef": "0K44y_WKKE-8D1BOQ59HVw/bSH6BqB8kU2uALkKNbCI7A",
+  "Created": "2024-10-08T16:54:03.1471601Z",
+  "Updated": "2024-10-08T16:54:03.1471601Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

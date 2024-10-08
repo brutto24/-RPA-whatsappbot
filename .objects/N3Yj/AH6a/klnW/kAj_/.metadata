@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Input 'New chat'",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "kAj_wuBtxE6LAtegF_vWlw",
+  "Reference": "0K44y_WKKE-8D1BOQ59HVw/kAj_wuBtxE6LAtegF_vWlw",
+  "ParentRef": "0K44y_WKKE-8D1BOQ59HVw/klnWkqCJeU-l9puPFsxuHw",
+  "Created": "2024-10-08T18:04:07.6266362Z",
+  "Updated": "2024-10-08T18:04:07.6266362Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

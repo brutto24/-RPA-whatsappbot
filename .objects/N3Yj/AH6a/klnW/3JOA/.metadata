@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Keypress Event Trigger 'edit Search name or num…'",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "3JOAkBohRU6V2vV3PWtzMA",
+  "Reference": "0K44y_WKKE-8D1BOQ59HVw/3JOAkBohRU6V2vV3PWtzMA",
+  "ParentRef": "0K44y_WKKE-8D1BOQ59HVw/klnWkqCJeU-l9puPFsxuHw",
+  "Created": "2024-10-08T17:48:15.7995866Z",
+  "Updated": "2024-10-08T17:48:15.7995866Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

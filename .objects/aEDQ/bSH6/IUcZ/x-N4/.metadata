@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Keyboard Shortcuts 'P'",
+  "Type": "Element",
+  "Id": "x-N44wc5n0-FX19I8iUdOg",
+  "Reference": "0K44y_WKKE-8D1BOQ59HVw/x-N44wc5n0-FX19I8iUdOg",
+  "ParentRef": "0K44y_WKKE-8D1BOQ59HVw/IUcZWcMD4ke5cnTIYc-79A",
+  "Created": "2024-10-08T16:54:03.5264087Z",
+  "Updated": "2024-10-08T16:54:03.5264087Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="BfmR32WrDEiJztgZ076qjQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" DesignTimeRectangle="343, 61, 40, 40" DesignTimeScaleFactor="1" ElementType="Button" FullSelectorArgument="&lt;uia automationid='NewConvoButton' cls='ToggleButton' name='Create new conversation' /&gt;" Guid="3c761a18-842a-4821-b56c-7e2ddb463f49" ScopeSelectorArgument="&lt;wnd app='applicationframehost.exe' appid='5319275A.WhatsAppDesktop_cv1g1gvanyjgm!App' title='WhatsApp' /&gt;" SearchSteps="Selector" SelectionStrategy="UIA" Version="V4">
+      <imageRef attrName="InformativeScreenshot" originalValue="91acacd3ca8005292db89e2eaefdf4f5.png" xmlns="">07b1_8Yk-xk-ToKF4ArSf4A</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">NativeTrigger</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

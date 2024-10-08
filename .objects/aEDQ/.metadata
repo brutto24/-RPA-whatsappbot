@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Edge WhatsApp",
+  "Type": "App",
+  "Id": "aEDQlpp7TE-agGQB1eI1UQ",
+  "Reference": "0K44y_WKKE-8D1BOQ59HVw/aEDQlpp7TE-agGQB1eI1UQ",
+  "Created": "2024-10-08T16:54:02.9521526Z",
+  "Updated": "2024-10-08T16:54:02.9521526Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
